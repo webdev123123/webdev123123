@@ -1,5 +1,13 @@
 ### Hi there 👋
-
+I'm a senior full-stack engineer with 12 years of experience
+seeking a challenging role as a React.js / Node.js developer.
+I'm specialized in React.js, Next.js, Node.js, AWS, etc.
+Experienced with all stages of development cycle for dynamic
+web projects.
+For me, software engineering is more than a job, it's a passion.
+I'm passionate about creating innovative solutions to complex
+problems and am dedicated to delivering high-quality work that
+exceeds client expectations and leaves a lasting impact.
 <!--
 **webdev123123/webdev123123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
